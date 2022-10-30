@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @raudzius
+- 👀 I’m interested in Frontend and Backend development
+- 🌱 I’m currently learning Node, React
+- 💞️ I’m looking to collaborate on React or/and Node project
+- 📫 reach me via raudziusmykolas@gmail.com or https://www.linkedin.com/in/mykolas-raud%C5%BEius-696192246/?originalSubdomain=lt
