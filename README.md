@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @raudzius
+- 👋 Hi, I’m Mykolas Raudzius
 - 👀 I’m interested in Frontend and Backend development
 - 🌱 I’m currently learning Node, React
 - 💞️ I’m looking to collaborate on React or/and Node project
